@@ -780,6 +780,12 @@ banner
   text-align: center
 }
 
+.centerVid {
+  margin-left: auto;
+  margin-right: auto;
+  display: block
+}
+
 .img-fill img {
   min-height: 100%;
   min-width: 100%;
