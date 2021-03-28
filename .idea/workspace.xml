@@ -19,37 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40b3597f-9cfa-4e2e-ac1b-28b072b34162" name="Default Changelist" comment="Added asteroids link">
+    <list default="true" id="40b3597f-9cfa-4e2e-ac1b-28b072b34162" name="Default Changelist" comment="Added added personal project images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/contact-info-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/contact-info-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/contact-info-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/dotted-map-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/features-icon-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/member-item-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/member-item-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/member-item-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/member-item-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/member-item-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/member-item-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-item-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-item-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-item-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-item-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-item-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-item-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service-item-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +54,8 @@
       <workItem from="1615417203336" duration="8491000" />
       <workItem from="1616314797089" duration="565000" />
       <workItem from="1616447675906" duration="2363000" />
-      <workItem from="1616896663719" duration="1752000" />
+      <workItem from="1616896663719" duration="2018000" />
+      <workItem from="1616898875310" duration="1310000" />
     </task>
     <task id="LOCAL-00001" summary="fixed copyright">
       <created>1615445020310</created>
@@ -106,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616448845346</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added added personal project entries">
+      <created>1616898471173</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616898471173</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added added personal project entries">
+      <created>1616898552547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616898552547</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,12 +114,13 @@
     <MESSAGE value="fixed copyright" />
     <MESSAGE value="Added descriptions and links" />
     <MESSAGE value="Added asteroids link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added asteroids link" />
+    <MESSAGE value="Added added personal project entries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added added personal project entries" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="772" y="369" key="Vcs.Push.Dialog.v2" timestamp="1616448853680">
+    <state x="772" y="369" key="Vcs.Push.Dialog.v2" timestamp="1616898569029">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="772" y="369" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1616448853680" />
+    <state x="772" y="369" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1616898569029" />
   </component>
 </project>
